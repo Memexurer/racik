@@ -1,4 +1,4 @@
-Ra/// api_version=2
+/// api_version=2
 var script = registerScript({
     name: "Dupa",
     version: "1",
