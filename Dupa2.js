@@ -6,7 +6,6 @@ var script = registerScript({
 });
 
 var MovementUtils = Java.type("net.ccbluex.liquidbounce.utils.MovementUtils").INSTANCE;
-var KillAura = Java.type("net.ccbluex.liquidbounce.features.module.modules.combat.KillAura");
 
 script.registerModule({
   name: "Speed",
